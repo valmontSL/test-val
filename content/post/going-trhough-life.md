@@ -5,7 +5,6 @@ title: Going trhough life
 excerpt: yay yay
 date: 2022-09-20T22:00:00+00:00
 hero: "/images/jael-vallee-bvptdakbccq-unsplash.jpeg"
-draft: true
 
 ---
 **Hey, c'est un test d'article.** 
